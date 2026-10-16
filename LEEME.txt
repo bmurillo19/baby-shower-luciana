@@ -1,0 +1,7 @@
+INVITACIÓN DE LUCIANA - PRUEBA WEB
+
+Publicar los archivos index.html y bienvenida.mp3 juntos en la raíz del sitio.
+En GitHub Pages: crear repositorio público, subir ambos archivos, Settings > Pages > Deploy from a branch > main > / (root) > Save.
+Luego abrir el enlace publicado y probar la música tocando Reproducir música.
+Para probar cupos: agregar ?cupos=1, ?cupos=2, etc. a la URL.
+IMPORTANTE: esta página de prueba es pública y el enlace puede compartirse.
